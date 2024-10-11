@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F9DCD1;
+}
+
+
+
+#home {
+    background-color: #FAF4F1;
+    height: auto;
+}
+
+header {
+    background-color: 3fff !important;
+}
+
+.samsung {
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: inherit;
+    background-position: top;
+    height: 500px;
+    padding: 30px;
+    background-color: #f5f5f584;
+}
+.pink {
+    background-color: pink;
+}
+.pinky {
+    color: #f05d71;
+    font-weight: 700;
+    font-size: large;
+}
+
+.delivery {
+    background-color: #FAF4F1 !important;
+}
+.bg-section {
+    background-color: #FAF4F1 !important;
+}
